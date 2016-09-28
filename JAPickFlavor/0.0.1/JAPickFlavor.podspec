@@ -21,5 +21,5 @@ s.dependency 'Alamofire', '~> 2.0'
 
 s.source_files = "*.{swift}"
 
-s.resources = "JAPickFlavor/**/*.{png,jpeg,jpg,storyboard,xib}"
+s.resources = "JAPickFlavor/**/*.{png,jpeg,jpg,storyboard,xib}","*.{png,jpeg,jpg,storyboard,xib}"
 end
