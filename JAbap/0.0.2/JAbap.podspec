@@ -13,7 +13,7 @@ s.author             = { "Juan Pablo Amorin" => "juan.amorin@arkusinc.com" }
 
 s.homepage = "https://github.com/juanpaOktana/JAbap"
 
-s.source       = { :git => "https://github.com/juanpaOktana/bap", :tag => "#{s.version}" }
+s.source       = { :git => "https://github.com/juanpaOktana/bap.git", :tag => "#{s.version}" }
 
 s.framework = "UIKit"
 
